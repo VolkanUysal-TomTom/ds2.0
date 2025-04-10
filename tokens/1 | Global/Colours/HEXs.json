@@ -93,7 +93,7 @@
   },
   "Black&White": {
     "tt_glb_color_white": {
-      "value": "#000",
+      "value": "#fff",
       "type": "color",
       "parent": "1 | Global/Colours/HEXs"
     },
