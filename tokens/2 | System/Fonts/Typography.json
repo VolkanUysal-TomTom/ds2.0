@@ -4,7 +4,7 @@
       "value": {
         "fontFamily": "{tt_glb_font_family}",
         "fontWeight": "{tt_glb_font_weight_bold}",
-        "fontSize": "{Font Size.tt_sys_fontSize_xxl}"
+        "fontSize": "{Font Size.tt_sys_fontSize_xxxs}"
       },
       "type": "typography"
     },
