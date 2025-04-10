@@ -165,7 +165,7 @@
   },
   "Red": {
     "tt_glb_color_red_100": {
-      "value": "#f84545",
+      "value": "#2a2873",
       "type": "color",
       "parent": "1 | Global/Colours/HEXs"
     },
