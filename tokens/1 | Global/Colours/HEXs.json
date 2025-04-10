@@ -495,11 +495,5 @@
       "parent": "1 | Global/Colours/HEXs",
       "description": ""
     }
-  },
-  "Color": {
-    "thais": {
-      "value": "#5a0b3f",
-      "type": "color"
-    }
   }
 }
